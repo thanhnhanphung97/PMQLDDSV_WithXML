@@ -1,0 +1,12 @@
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\bin\Debug\PMQLDSSV.exe.config
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\bin\Debug\PMQLDSSV.exe
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\bin\Debug\PMQLDSSV.pdb
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.csprojResolveAssemblyReference.cache
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.Form1.resources
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.Properties.Resources.resources
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.csproj.GenerateResource.Cache
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.exe
+D:\Study\Code\Visual\Project\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.pdb
+D:\Study\Code\Visual\WindowsForm\PMQLDSSV\PMQLDSSV\bin\Debug\PMQLDSSV.exe.config
+D:\Study\Code\Visual\WindowsForm\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.exe
+D:\Study\Code\Visual\WindowsForm\PMQLDSSV\PMQLDSSV\obj\Debug\PMQLDSSV.pdb

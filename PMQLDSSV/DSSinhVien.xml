@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<danhsachsinhvien>
+  <sinhvien>
+    <masv>C00</masv>
+    <gioitinh>Nu</gioitinh>
+    <tenlop>Công Nghệ Thông Tin</tenlop>
+    <ho>Nguyen Thi</ho>
+    <ten>Trang</ten>
+    <ngaysinh>08/13/1991</ngaysinh>
+    <hocbong>100000</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>C01</masv>
+    <gioitinh>Nam</gioitinh>
+    <tenlop>Công Nghệ Thông Tin</tenlop>
+    <ho>Ha</ho>
+    <ten>Tuan</ten>
+    <ngaysinh>2/24/1991</ngaysinh>
+    <hocbong>0</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>C02</masv>
+    <gioitinh>Nu</gioitinh>
+    <tenlop>Công Nghệ Thông Tin</tenlop>
+    <ho>Tran Ngoc</ho>
+    <ten>Hoa</ten>
+    <ngaysinh>6/11/1990</ngaysinh>
+    <hocbong>500000</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>C03</masv>
+    <gioitinh>Nữ</gioitinh>
+    <tenlop>Công Nghệ Thông Tin</tenlop>
+    <ho>Bui Thi Diem</ho>
+    <ten>Thao</ten>
+    <ngaysinh>2/26/1990</ngaysinh>
+    <hocbong>100000</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>T00</masv>
+    <gioitinh>Nam</gioitinh>
+    <tenlop>Sư Phạm Toán</tenlop>
+    <ho>Le</ho>
+    <ten>Tuan</ten>
+    <ngaysinh>2/15/1991</ngaysinh>
+    <hocbong>0</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>T01</masv>
+    <gioitinh>Nam</gioitinh>
+    <tenlop>Sư Phạm Toán</tenlop>
+    <ho>Bui Minh</ho>
+    <ten>Khanh</ten>
+    <ngaysinh>9/4/1990</ngaysinh>
+    <hocbong>120000</hocbong>
+  </sinhvien>
+  <sinhvien>
+    <masv>T02</masv>
+    <gioitinh>Nu</gioitinh>
+    <tenlop>Sư Phạm Toán</tenlop>
+    <ho>Tran Thi</ho>
+    <ten>Lan</ten>
+    <ngaysinh>4/3/1991</ngaysinh>
+    <hocbong>100000</hocbong>
+  </sinhvien>
+</danhsachsinhvien>
